@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
       <picture style="width:100%">
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake-dark.svg" style="width:100%" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake.svg" style="width:100%"/>
         <img style="width:100%;"  alt="h4shell" src="github-snake.svg" />
       </picture>
     </span>
