@@ -29,8 +29,6 @@ preview
     </span>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4shell" alt="h4shell" /></a> </p>
-
 - 🔭 I’m currently working on [environment](https://github.com/h4shell/environment)
 
 - 👨‍💻 All of my projects are available at [https://h4sh.it](https://h4sh.it)
@@ -51,31 +49,5 @@ preview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4shell&show_icons=true&locale=en&layout=compact" alt="h4shell" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4shell&show_icons=true&locale=en" alt="h4shell" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
-
 
 
