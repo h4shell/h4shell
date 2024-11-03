@@ -19,7 +19,7 @@ Here are some ideas to get you started:
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake.svg" />
-        <img alt="github-snake" src="github-snake.svg" />
+        <img style="width: 100%;" alt="h4shell" src="github-snake.svg" />
       </picture>
     </span>
 </p>
