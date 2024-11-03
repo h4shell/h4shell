@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/h4shell/h4shell/output/github-contribution-grid-snake.svg)" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
