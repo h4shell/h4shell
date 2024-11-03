@@ -1,3 +1,4 @@
+<img src="welcome-to-coding.gif">
 <h1 align="center">Hi 👋, I'm Lorenzo Fornara</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
