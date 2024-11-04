@@ -32,7 +32,8 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=h4shell&show_icons=true&locale=en&layout=compact&theme=onedark"/>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=h4shell&show_icons=true&locale=en&layout=compact&theme=light"/>
         <img align="right" alt="h4shell" />
-        <p align="left">
+</picture>
+<p align="left">
 
 - 🔭 I’m currently working on [environment](https://github.com/h4shell/environment)
 
@@ -43,8 +44,6 @@
 - 📫 How to reach me **h4shell@gmail.com**
 
   </p>
-
-</picture>
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
