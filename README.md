@@ -64,7 +64,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/h4shell" target="blank"><img width="92" height="92" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="h4shell" height="30" width="40" /></a>
+<a href="https://codepen.io/lorenzo-fornara" target="blank"><img width="92" height="92" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="h4shell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lorenzofornara" target="blank"><img width="92" height="92" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzofornara" height="30" width="40" /></a>
 </p>
 
